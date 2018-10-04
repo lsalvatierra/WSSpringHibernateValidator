@@ -29,6 +29,4 @@ public class Persona implements Serializable {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-    
-    
 }
